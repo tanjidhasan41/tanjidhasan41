@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tanjid 👋
 
-<!--
-**tanjidhasan41/tanjidhasan41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Software QA Automation Engineer | Web & Mobile Automation
+🔹 Passionate about testing, automation, and debugging
+🔹 Currently learning advanced WebdriverIO & Appium
+🔹 Exploring AI tools to speed up test development
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Java | JavaScript | Node.js
+- Playwright | WebdriverIO | Appium | Selenium
+- JUnit | TestNG | Rest Assured | Mocha
+- Android Studio | ADB
+- Postman | Newman | JMeter | MySQL
+- Git | GitHub | Jira | Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔹 **Automated Onboarding Test (Appium + WDIO)**  
+- 🔹 **nopCommerce Automation Using Playwright**  
+- 🔹 **Playwright Automation - DailyFinance**
+- 🔹 **TestNG Web Automation**
+- 🔹 **D-Money Project using Postman**
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/tanjidhasan41
+- Email: tanjidhasan41@gmail.com
