@@ -2,7 +2,6 @@
 
 - Software QA Automation Engineer | Web & Mobile Automation
 - Passionate about testing, automation, and debugging
-- Currently learning advanced WebdriverIO & Appium
 - Exploring AI tools to speed up test development
 
 ## 🔧 Technologies & Tools
