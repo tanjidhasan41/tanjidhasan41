@@ -6,18 +6,18 @@
 
 ## 🔧 Technologies & Tools
 - Java | JavaScript | Node.js
-- Playwright | WebdriverIO | Appium | Selenium
+- Playwright | Selenium | WebdriverIO | Appium
 - JUnit | TestNG | Rest Assured | Mocha
 - Android Studio | ADB
 - Postman | Newman | JMeter | MySQL
 - Git | GitHub | Jira | Agile
 
 ## 📌 Featured Projects
-- **Automated Onboarding Test (Appium + WDIO)**  
-- **nopCommerce Automation Using Playwright**  
-- **Playwright Automation - DailyFinance**
-- **TestNG Web Automation**
-- **D-Money Project using Postman**
+- **Automated meldCX Cloud Console (Appium + WDIO)**
+- **nopCommerce Automation Using Playwright**
+- **Daily Finance Automation Using Playwright**
+- **Daily Finance Automation Using TestNG**
+- **D-Money API Automation Using Postman**
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/tanjidhasan41
